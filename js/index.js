@@ -270,7 +270,8 @@ var Hero = React.createClass({
 				React.createElement(
 					'p',
 					null,
-					'.'
+					'Save money, save Plato.
+Help iVanilla save enough money to buy a new bike and go rescue Plato! Learn about how to save money by completing the 4 next stories.'
 				),
 				React.createElement(
 					'div',
